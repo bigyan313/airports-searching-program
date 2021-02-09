@@ -1,0 +1,12 @@
+README
+
+run following codes:
+% make clean
+% make
+% ./airports
+
+In command line tool:
+Input airport ICAO and Radius in same line
+ICAO and Radius separated by a space
+
+Give negative radius to exit program. 
